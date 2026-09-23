@@ -1,0 +1,18 @@
+# Visual Studio build and user-specific files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ReSharper and Visual Studio Code
+_ReSharper*/
+*.DotSettings.user
+.vscode/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
